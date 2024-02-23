@@ -1,0 +1,14 @@
+D:\Coding\Enunciado POO\bin\Debug\net8.0\Enunciado POO.exe
+D:\Coding\Enunciado POO\bin\Debug\net8.0\Enunciado POO.deps.json
+D:\Coding\Enunciado POO\bin\Debug\net8.0\Enunciado POO.runtimeconfig.json
+D:\Coding\Enunciado POO\bin\Debug\net8.0\Enunciado POO.dll
+D:\Coding\Enunciado POO\bin\Debug\net8.0\Enunciado POO.pdb
+D:\Coding\Enunciado POO\obj\Debug\net8.0\Enunciado POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Enunciado POO\obj\Debug\net8.0\Enunciado POO.AssemblyInfoInputs.cache
+D:\Coding\Enunciado POO\obj\Debug\net8.0\Enunciado POO.AssemblyInfo.cs
+D:\Coding\Enunciado POO\obj\Debug\net8.0\Enunciado POO.csproj.CoreCompileInputs.cache
+D:\Coding\Enunciado POO\obj\Debug\net8.0\Enunciado POO.dll
+D:\Coding\Enunciado POO\obj\Debug\net8.0\refint\Enunciado POO.dll
+D:\Coding\Enunciado POO\obj\Debug\net8.0\Enunciado POO.pdb
+D:\Coding\Enunciado POO\obj\Debug\net8.0\Enunciado POO.genruntimeconfig.cache
+D:\Coding\Enunciado POO\obj\Debug\net8.0\ref\Enunciado POO.dll
